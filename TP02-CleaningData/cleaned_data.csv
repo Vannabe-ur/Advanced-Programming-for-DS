@@ -1,0 +1,8 @@
+id,name,age,height_cm,weight_kg,city,score
+1,Alice,29.0,165.0,68.0,New York,85.0
+2,Bob,30.25,172.0,70.0,Los Angeles,90.0
+3,Charlie,35.0,168.0,72.0,Chicago,86.0
+4,David,30.25,167.0,80.0,Houston,75.0
+5,Eva,27.0,160.0,55.0,New York,88.0
+6,Frank,30.0,175.0,85.0,Los Angeles,86.0
+7,Grace,30.25,162.0,60.0,Chicago,92.0
